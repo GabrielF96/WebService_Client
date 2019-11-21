@@ -1,0 +1,6 @@
+eclipse.preferences.version=1
+encoding//src/models/Exame.java=UTF-8
+encoding//src/webService/ExameWS.java=UTF-8
+encoding//src/webService/ExameWSService.java=UTF-8
+encoding//src/webService/ExameWSServiceLocator.java=UTF-8
+encoding//src/webService/ExameWSSoapBindingStub.java=UTF-8
